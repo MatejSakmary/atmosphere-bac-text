@@ -1,0 +1,123 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{WVBR{\etalchar{+}}21}
+
+\bibitem[BN08]{bruneton_neyret_2008}
+Eric Bruneton and Fabrice Neyret.
+\newblock Precomputed atmospheric scattering.
+\newblock {\em Computer Graphics Forum}, 27(4):1079–1086, 2008.
+
+\bibitem[BNM{\etalchar{+}}08]{bouthors2008interactive}
+Antoine Bouthors, Fabrice Neyret, Nelson Max, Eric Bruneton, and Cyril Crassin.
+\newblock Interactive multiple anisotropic scattering in clouds.
+\newblock In {\em Proceedings of the 2008 symposium on Interactive 3D graphics
+  and games}, pages 173--182, 2008.
+
+\bibitem[CBE{\etalchar{+}}21]{costa_bock_emmart_hansen_ynnerman_silva_2021}
+Jonathas Costa, Alexander Bock, Carter Emmart, Charles Hansen, Anders Ynnerman,
+  and Claudio Silva.
+\newblock Interactive visualization of atmospheric effects for celestial
+  bodies.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  27(2):785–--795, 2021.
+
+\bibitem[Gon09]{gonzalez_2009}
+Álvaro González.
+\newblock Measurement of areas on a sphere using fibonacci and
+  latitude–longitude lattices.
+\newblock {\em Mathematical Geosciences}, 42(1):49–64, 2009.
+
+\bibitem[Hil16]{hillaire2016physically}
+Sbastien Hillaire.
+\newblock Physically based sky, atmosphere and cloud rendering in frostbite.
+\newblock In {\em ACM SIGGRAPH}, 2016.
+
+\bibitem[Hil20]{hillaire_2020}
+Sébastien Hillaire.
+\newblock A scalable and production ready sky and atmosphere rendering
+  technique.
+\newblock {\em Computer Graphics Forum}, 39(4):13--–22, 2020.
+
+\bibitem[HKS98]{hess1998optical}
+Michael Hess, Peter Koepke, and Ingrid Schult.
+\newblock Optical properties of aerosols and clouds: The software package opac.
+\newblock {\em Bulletin of the American meteorological society},
+  79(5):831--844, 1998.
+
+\bibitem[HW12]{hosek2012analytic}
+Lukas Hosek and Alexander Wilkie.
+\newblock An analytic model for full spectral sky-dome radiance.
+\newblock {\em ACM Transactions on Graphics (TOG)}, 31(4):1--9, 2012.
+
+\bibitem[KMM{\etalchar{+}}17]{kallweit2017deep}
+Simon Kallweit, Thomas M{\"u}ller, Brian Mcwilliams, Markus Gross, and Jan
+  Nov{\'a}k.
+\newblock Deep scattering: Rendering atmospheric clouds with
+  radiance-predicting neural networks.
+\newblock {\em ACM Transactions on Graphics (TOG)}, 36(6):1--11, 2017.
+
+\bibitem[Kok04]{kokhanovsky2004optical}
+Alexander Kokhanovsky.
+\newblock Optical properties of terrestrial clouds.
+\newblock {\em Earth-Science Reviews}, 64(3-4):189--241, 2004.
+
+\bibitem[Lag19]{lague_2019}
+Sebastian Lague.
+\newblock Coding adventure: Clouds.
+\newblock https://www.youtube.com/watch?v=4QOcCGI6xOU, 2019.
+
+\bibitem[Lot16]{lottes2016}
+Timothy Lottes.
+\newblock Advanced techniques and optimization of hdr color pipelines.
+\newblock Game Developers Conference, 2016.
+
+\bibitem[Nar16]{narkowicz2016aces}
+Krzysztof Narkowicz.
+\newblock Aces filmic tone mapping curve.
+\newblock
+  https://knarkowicz.wordpress.com/2016/01/06/aces-filmic-tone-mapping-curve/,
+  2016.
+
+\bibitem[Ove21]{overvoorde_2021}
+Alexander Overvoorde.
+\newblock Frames in flight, vulkan tutorial, 2021.
+
+\bibitem[Pet06]{petty_2006}
+Grant~W. Petty.
+\newblock {\em A first course in atmospheric radiation}.
+\newblock Sundog Pub., 2006.
+
+\bibitem[SV15]{schneider2015real}
+Andrew Schneider and Nathan Vos.
+\newblock The real-time volumetric cloudscapes of horizon: Zero dawn.
+\newblock {\em SIGGRAPH Course note in Advance in Real-Time Rendering in
+  Games}, 2015.
+
+\bibitem[Tar19]{tardif_2019}
+Alex Tardif.
+\newblock Adaptive exposure from luminance histograms.
+\newblock https://www.alextardif.com/HistogramLuminance.html, 2019.
+
+\bibitem[US18]{uchimura2018practical}
+Hajime Uchimura and Kentaro Suzuki.
+\newblock Practical hdr and wide color techniques in gran turismo sport.
+\newblock In {\em SIGGRAPH Asia 2018 Courses}, pages 1--4. 2018.
+
+\bibitem[WVBR{\etalchar{+}}21]{wilkie2021fitted}
+Alexander Wilkie, Petr Vevoda, Thomas Bashford-Rogers, Luk{\'a}{\v{s}}
+  Ho{\v{s}}ek, Tom{\'a}{\v{s}} Iser, Monika Kol{\'a}{\v{r}}ov{\'a}, Tobias
+  Rittig, and Jaroslav K{\v{r}}iv{\'a}nek.
+\newblock A fitted radiance and attenuation model for realistic atmospheres.
+\newblock {\em ACM Transactions on Graphics (TOG)}, 40(4):1--14, 2021.
+
+\bibitem[Yus14a]{yusov2014high}
+Egor Yusov.
+\newblock High performance outdoor light scattering using epipolar sampling.
+\newblock {\em GPU Pro}, 5:101--126, 2014.
+
+\bibitem[Yus14b]{yusov2014clouds}
+Egor Yusov.
+\newblock High-performance rendering of realistic cumulus clouds using
+  pre-computed lighting.
+\newblock In {\em High Performance Graphics}, pages 127--136, 2014.
+
+\end{thebibliography}

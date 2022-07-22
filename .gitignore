@@ -1,0 +1,14 @@
+latex_src/thesis-text.pdf
+*~
+*.aux
+*.blg
+*.ilg
+*.idx
+*.lof
+*.log
+*.lot
+*.out
+*.synctex.gz
+*.sh
+*.toc
+ctuman-*.pdf
